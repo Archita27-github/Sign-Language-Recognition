@@ -83,10 +83,6 @@ To use the Sign Language Recognition System, follow these steps:
 5. Interact with the system by making sign language gestures within the camera's view. The recognized gestures will be displayed on the screen
 
 
-Here is a demo of the Sign Language Recognition System in action:
-
-<img  alt="Coding" width="45%" src="docs/demo-ss-a.png">
-<img  alt="Coding" width="45%" src="docs/demo-ss-s.png">
 
 
 <br><br>
