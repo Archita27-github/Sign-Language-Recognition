@@ -1,0 +1,10 @@
+matplotlib
+mediapipe
+numpy
+opencv-python
+pandas
+Pillow
+python-dotenv
+scikit-learn
+seaborn
+tensorflow
