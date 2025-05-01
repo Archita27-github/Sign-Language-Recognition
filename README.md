@@ -41,7 +41,7 @@ To set up the Sign Language Recognition System on your local machine, follow the
 1. Clone the repository to your local machine.
    
     ``` bash
-    git clone https://github.com/the-sam963/Sign-language-Recognition.git
+    https://github.com/Archita27-github/Sign-Language-Recognition.git
     ```
 
 2. Install the required packages using the requirements.txt file.
@@ -186,12 +186,3 @@ The preprocessed data is used to train a machine learning model to recognize and
 The model was trained on a dataset of 24,000 hand gestures. The dataset was split into training and validation sets with a ratio of 80:20. The model was trained for 100 epochs with a batch size of 180. The training and validation accuracy and loss were recorded for each epoch.
 
 Our Proposed Model achieved an accuracy of `71.12%` on the validation set and `90.60%` on the testing set. The model was able to recognize and interpret sign language gestures in real-time with an accuracy of `71.12%`.
-
-
-<br><br>
-
-## Contributing
-Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Let's work together to make the Sign Language Recognition System even better!
-
-We appreciate your contributions, whether big or small, and we look forward to working together to enhance the Sign Language Recognition System. Let's make a positive impact on the lives of individuals with hearing impairments and promote inclusivity in communication.
-
