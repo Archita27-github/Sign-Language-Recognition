@@ -35,7 +35,7 @@ The Sign Language Recognition System consists of several components:
 
 <br><br>
 
-## Installetion 
+## Installation 
 To set up the Sign Language Recognition System on your local machine, follow these steps:
 
 1. Clone the repository to your local machine.
